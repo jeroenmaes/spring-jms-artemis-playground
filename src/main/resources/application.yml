@@ -1,0 +1,4 @@
+artemis:
+  broker-url: tcp://localhost:61616
+  broker-user: artemis 
+  broker-password: simetraehcapa
